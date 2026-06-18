@@ -1,0 +1,51 @@
+order_id,order_date,order_month,product_id,product_name,category,region,quantity,unit_price,revenue,expected_revenue
+104608,2024-01-01,2024-01,P01,Wireless Mouse,Electronics,South,5,24.99,124.95,124.95
+104242,2024-01-01,2024-01,P07,Mechanical Keyboard,Electronics,West,1,79.0,79.0,79.0
+102704,2024-01-01,2024-01,P05,Water Bottle,Home,West,6,14.75,88.5,88.5
+103410,2024-01-01,2024-01,P05,Water Bottle,Home,West,1,14.75,14.75,14.75
+103171,2024-01-01,2024-01,P07,Mechanical Keyboard,Electronics,East,7,79.0,553.0,553.0
+100830,2024-01-01,2024-01,P04,Desk Lamp,Home,South,1,32.0,32.0,32.0
+103572,2024-01-01,2024-01,P02,USB-C Cable,Electronics,West,5,9.5,47.5,47.5
+102415,2024-01-01,2024-01,P02,USB-C Cable,Electronics,South,2,9.5,19.0,19.0
+102990,2024-01-01,2024-01,P08,Gel Pen 5-pack,Stationery,South,3,6.4,19.2,19.2
+103720,2024-01-02,2024-01,P06,Coffee Mug,Home,South,2,8.3,16.6,16.6
+100229,2024-01-02,2024-01,P02,USB-C Cable,Electronics,West,6,9.5,57.0,57.0
+102654,2024-01-02,2024-01,P08,Gel Pen 5-pack,Stationery,North,1,6.4,6.4,6.4
+104544,2024-01-02,2024-01,P08,Gel Pen 5-pack,Stationery,North,3,6.4,19.2,19.2
+103650,2024-01-02,2024-01,P03,Notebook A5,Stationery,Unknown,5,4.2,21.0,21.0
+104099,2024-01-02,2024-01,P03,Notebook A5,Stationery,South,4,4.2,16.8,16.8
+102952,2024-01-02,2024-01,P08,Gel Pen 5-pack,Stationery,North,3,6.4,19.2,19.2
+101789,2024-01-02,2024-01,P03,Notebook A5,Stationery,South,5,4.2,21.0,21.0
+101731,2024-01-02,2024-01,P06,Coffee Mug,Home,South,4,8.3,33.2,33.2
+102590,2024-01-03,2024-01,P05,Water Bottle,Home,East,5,14.75,73.75,73.75
+101052,2024-01-03,2024-01,P04,Desk Lamp,Home,West,4,32.0,128.0,128.0
+102193,2024-01-03,2024-01,P02,USB-C Cable,Electronics,North,3,9.5,28.5,28.5
+101119,2024-01-03,2024-01,P05,Water Bottle,Home,West,7,14.75,103.25,103.25
+101847,2024-01-03,2024-01,P05,Water Bottle,Home,North,7,14.75,103.25,103.25
+101361,2024-01-03,2024-01,P07,Mechanical Keyboard,Electronics,North,4,79.0,316.0,316.0
+100520,2024-01-03,2024-01,P02,USB-C Cable,Electronics,West,6,9.5,57.0,57.0
+100140,2024-01-03,2024-01,P06,Coffee Mug,Home,North,6,8.3,49.8,49.8
+103759,2024-01-03,2024-01,P05,Water Bottle,Home,West,3,14.75,44.25,44.25
+103587,2024-01-03,2024-01,P01,Wireless Mouse,Electronics,East,6,24.99,149.94,149.94
+104638,2024-01-04,2024-01,P08,Gel Pen 5-pack,Stationery,West,6,6.4,38.4,38.4
+101494,2024-01-04,2024-01,P02,USB-C Cable,Electronics,North,3,9.5,28.5,28.5
+101755,2024-01-04,2024-01,P05,Water Bottle,Home,East,6,14.75,88.5,88.5
+104860,2024-01-04,2024-01,P07,Mechanical Keyboard,Electronics,South,6,79.0,474.0,474.0
+104563,2024-01-04,2024-01,P05,Water Bottle,Home,East,5,14.75,73.75,73.75
+104504,2024-01-04,2024-01,P04,Desk Lamp,Home,South,3,32.0,96.0,96.0
+101449,2024-01-04,2024-01,P03,Notebook A5,Stationery,West,4,4.2,16.8,16.8
+103042,2024-01-04,2024-01,P08,Gel Pen 5-pack,Stationery,South,1,6.4,6.4,6.4
+102471,2024-01-04,2024-01,P05,Water Bottle,Home,South,1,14.75,14.75,14.75
+104438,2024-01-04,2024-01,P02,USB-C Cable,Electronics,North,4,9.5,38.0,38.0
+100954,2024-01-04,2024-01,P04,Desk Lamp,Home,North,4,32.0,128.0,128.0
+103734,2024-01-04,2024-01,P06,Coffee Mug,Home,North,4,8.3,33.2,33.2
+104100,2024-01-04,2024-01,P03,Notebook A5,Stationery,South,4,4.2,16.8,16.8
+101495,2024-01-05,2024-01,P08,Gel Pen 5-pack,Stationery,South,1,6.4,6.4,6.4
+102858,2024-01-05,2024-01,P03,Notebook A5,Stationery,East,7,4.2,29.4,29.4
+103685,2024-01-05,2024-01,P03,Notebook A5,Stationery,North,1,4.2,4.2,4.2
+101360,2024-01-05,2024-01,P01,Wireless Mouse,Electronics,East,2,24.99,49.98,49.98
+102025,2024-01-05,2024-01,P01,Wireless Mouse,Electronics,South,6,24.99,149.94,149.94
+103335,2024-01-05,2024-01,P06,Coffee Mug,Home,East,6,8.3,49.8,49.8
+101116,2024-01-05,2024-01,P08,Gel Pen 5-pack,Stationery,West,6,6.4,38.4,38.4
+100065,2024-01-05,2024-01,P08,Gel Pen 5-pack,Stationery,East,3,6.4,19.2,19.2
+102271,2024-01-05,2024-01,P06,Coffee Mug,Home,West,4,8.3,33.2,33.2
